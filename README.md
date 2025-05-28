@@ -1,6 +1,6 @@
 # DSA-Documentation
 ## To showcase my skills after attending DSA incubator  Data Analysis program
-##### I have leannt quite number of things ranging  from Excell to powerBI and SQL
+##### I have learned a variety of skills, ranging from Excel to Power BI and SQL
 
 ## PROJECT TOPIC: E Commerce 
 
