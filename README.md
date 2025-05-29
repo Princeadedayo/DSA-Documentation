@@ -118,9 +118,6 @@ Outliers in sales data are linked to promotional sales events or flash sales, wh
 
 
 
-   
-
-
 
 
 
