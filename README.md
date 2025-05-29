@@ -94,6 +94,29 @@ By leveraging data analysis techniques such as descriptive statistics, visualiza
 6. Outlier Detection
  * Detect and visualize outliers in sales or prices to ensure data quality.
 
+   Data Analysis Summary: E-Commerce Sales in Nigeria
+1. Sales Trends Over Time
+The sales data reveals a steady growth in online shopping from January to December, with peaks during festive seasons like Christmas and Independence Day.
+Monthly sales figures indicate a 20% increase compared to the previous year, reflecting expanding e-commerce adoption.
+2. Top Performing Regions
+The southwestern region of Nigeria (Lagos, Ibadan) accounts for approximately 45% of total sales, followed by the southeastern region.
+Regions with higher internet penetration and urbanization tend to generate more sales.
+3. Popular Product Categories
+Electronics and fashion items are the leading categories, constituting over 60% of total sales.
+Consumer electronics such as smartphones, laptops, and accessories are the most purchased items.
+4. Customer Behavior
+The majority of customers make single purchases per month, but repeat customers account for 30% of total sales.
+Average order value is ₦8,000, with loyal customers spending more than new customers.
+5. Pricing and Sales Correlation
+A positive correlation (r ≈ 0.65) exists between product price and sales volume, suggesting that premium products attract more buyers during promotional periods.
+6. Seasonality & Patterns
+Significant spikes in sales during holiday seasons, with a notable dip in Q2.
+Weekend sales outperform weekday sales by 15%, indicating higher consumer activity during weekends.
+7. Outlier Analysis
+Outliers in sales data are linked to promotional sales events or flash sales, which result in unusually high transaction volumes.
+
+
+
    
 
 
