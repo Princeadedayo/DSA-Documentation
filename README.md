@@ -39,15 +39,64 @@ By leveraging data analysis techniques such as descriptive statistics, visualiza
 
 ## Tools used:
 
-1. SQL/Database Management
+1. SQL/Database Management [Download here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms)
  * MySQL or PostgreSQL (for storing data)
 2. Data Visualization
- * Tableau, Power BI (interactive dashboards)
+ * Tableau, Power BI (interactive dashboards)   
  * Matplotlib, Seaborn (Python visualization libraries)
 3. Web Scraping & API Access
  * BeautifulSoup, Scrapy, Postman
 4. Version Control
  * Git (and GitHub for collaboration)
+
+## Data Cleaning & Preparation
+
+1. Handle Missing Data & Remove Duplicates
+
+ * Identify and fill or remove missing values; eliminate duplicate records for accuracy.
+   
+2. Convert & Standardize Data
+
+ * Format data types (dates, numbers) properly; normalize text (lowercase) and handle inconsistent units.
+   
+ 3. Create Features & Filter Outliers
+
+ * Generate relevant features (e.g., date parts, categories), and detect/remove outliers for reliable analysis.
+
+   ## Exploratory Data Analysis (EDA) Tasks
+
+1. Summary Statistics
+
+ * Use describe() to get insights into sales amount, prices, and quantities (mean, median, min, max).
+ * Check data distribution for numerical variables.
+   
+2. Data Visualization
+
+ * Histograms for sales volume, prices, and customer orders.
+ * Bar charts for top product categories, regions, or customer segments.
+ * Time series plots to analyze sales trends over time (daily, monthly, quarterly).
+ * Pie charts for market share by product or region.
+
+3. Correlation Analysis
+
+ * Compute correlation matrix to identify relationships between variables (e.g., price vs. sales).
+ * Use heatmaps for visual representation.
+   
+4. Customer Insights
+
+ * Analyze purchase frequency per customer.
+ * Trend analysis based on demographics or location.
+5. Regional & Product Trend Analysis
+
+ * Identify top-performing regions and product categories.
+ * Seasonal patterns and sales fluctuations across different periods.
+   
+6. Outlier Detection
+ * Detect and visualize outliers in sales or prices to ensure data quality.
+
+   
+
+
 
 
 
