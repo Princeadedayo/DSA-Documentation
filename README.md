@@ -116,6 +116,39 @@ Weekend sales outperform weekday sales by 15%, indicating higher consumer activi
 7. Outlier Analysis
 Outliers in sales data are linked to promotional sales events or flash sales, which result in unusually high transaction volumes.
 
+![image](https://github.com/user-attachments/assets/a6c02f12-a055-4f5b-b688-db6ab94bba71)
+
+![image](https://github.com/user-attachments/assets/6aedab13-706a-48be-8cd1-356efa774497)
+
+## Your E-Commerce Sales Analysis in Nigeria
+
+Overview:
+My analysis reveals that Nigeria’s e-commerce sector is experiencing rapid growth, driven by increased internet penetration and urbanization, particularly in Lagos and other southwestern regions.
+
+## Key Findings:
+
+1. Growth Trends: Sales are trending upward, with notable peaks during festive seasons and holiday periods, indicating seasonal consumer behavior.
+Regional Performance: Lagos and the southwestern region dominate total sales, highlighting regional disparities and opportunities for expansion into less penetrated areas.
+ 2. Product Popularity: Electronics and fashion categories are the most purchased, suggesting high demand for tech gadgets and apparel.
+3.Customer Insights: Frequent repeat customers contribute significantly to revenue, emphasizing the importance of customer loyalty programs.
+ 4. Price Dynamics: A positive correlation between product price and sales volume hints at successful premium product marketing and pricing strategies.
+5.  Seasonality & Patterns: Higher weekend sales and seasonal spikes suggest targeted promotional campaigns during these periods could boost revenue further.
+6.  Outliers & Promotions: Sudden surges align with promotional events, emphasizing the importance of marketing efforts during peak times.
+
+## Implications:
+
+1. Focus on expanding logistics and marketing in underrepresented regions.
+Invest in personalized campaigns around peak seasons and weekends.
+2. Prioritize high-demand categories like electronics and fashion for inventory planning.
+3. Enhance loyalty programs to increase repeat purchases.
+
+## Conclusion
+
+This analysis highlights the significant growth and diverse opportunities within Nigeria’s e-commerce sector. Key regions like Lagos dominate sales, with electronics and fashion being the top-performing categories. Seasonal trends and peak shopping days, particularly weekends and holidays, present strategic opportunities for targeted marketing and promotions. Understanding customer behavior and regional preferences enables businesses to tailor their offerings, improve inventory management, and foster customer loyalty. As Nigeria continues its digital transformation, leveraging these insights will be essential for sustainable growth and competitive advantage in the e-commerce landscape.
+
+
+
+
 
 
 
