@@ -94,7 +94,8 @@ By leveraging data analysis techniques such as descriptive statistics, visualiza
 6. Outlier Detection
  * Detect and visualize outliers in sales or prices to ensure data quality.
 
-   Data Analysis Summary: E-Commerce Sales in Nigeria
+   ## Data Analysis Summary: E-Commerce Sales in Nigeria
+   
 1. Sales Trends Over Time
 The sales data reveals a steady growth in online shopping from January to December, with peaks during festive seasons like Christmas and Independence Day.
 Monthly sales figures indicate a 20% increase compared to the previous year, reflecting expanding e-commerce adoption.
